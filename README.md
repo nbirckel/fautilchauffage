@@ -8,4 +8,4 @@ Par ailleurs, le chauffage résidentiel au gaz ou au fioul (et les autres aussi,
 
 Winter is coming.
 
-PS : on est le 08/10/2021, ce matin dans mon appart de location dans un immeuble de ville des années 60 il faisait 15 degrés à 7h du matin. 🥶
+PS : on est le 08/10/2021, dans mon appart de location dans un immeuble de ville des années 60 il faisait 15 degrés à 7h du matin. 🥶
