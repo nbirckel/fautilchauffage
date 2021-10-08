@@ -8,7 +8,7 @@ body {
 	color:#1D3557;
 }
 h1 {
-	font-size:3em;
+	font-size:3.5em;
 	text-align:center;
 }
 #content{
@@ -31,5 +31,5 @@ footer p {
 }
 footer p a {
 	text-decoration:none;
-	color:#EF1FAEE;
+	color:#F1FAEE;
 }
